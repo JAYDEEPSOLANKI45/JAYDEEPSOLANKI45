@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="center">
-  I build robust backend systems and intuitive front-end interfaces. Skilled in Java, Node.js, and Python, with experience in databases like MongoDB and MySQL. I enjoy solving problems, learning new technologies quickly, and collaborating on impactful projects.
+  I build robust backend systems and intuitive front-end interfaces. Skilled in Java, Node.js, React.js and Python, with experience in databases like MongoDB and MySQL. I enjoy solving problems, learning new technologies quickly, and collaborating on impactful projects.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
